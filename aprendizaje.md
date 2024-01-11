@@ -57,3 +57,8 @@ Programación
 6. automatizar scripts
 7. bases de datos
 
+
+Canal de comunicación
+------------------------------------------------------------
+correo: emidrilo101010@gmail.com
+slack: Programming & Gamming
